@@ -1,0 +1,11 @@
+# Uso del servicio de internet
+
+- El uso de Internet está restringido a las actividades laborales. No obstante puede utilizarse para algunos asuntos personales como la revisión de su correo personal, revisión de su cuenta bancaria, etc. Es necesario aclarar que las políticas de seguridad establecidas por el área de Tecnología para el bloqueo de intrusos, están destinadas a lo estrictamente laboral y que las visitas a páginas personales son responsabilidad del usuario. A través de los equipos de monitoreo y análisis de tráfico instalados en el Centro de Cómputo, se detectará a los usuarios que hagan mal uso de los servicios de Internet y se procederá a dar aviso a su jefe inmediato, para que haga un primer llamado de atención verbal sobre el buen uso de los servicios web.
+- El área de Tecnología podrá solicitar a un usuario que esté utilizando el canal de Internet para fines distintos a los institucionales, que abandone el sitio o cancele la transferencia de archivos, para garantizar la disponibilidad de dicho canal, (por ejemplo, redes sociales, chat, Facebook, YouTube o aplicativos de descargas de música, videos, películas, etc.).
+- Se recomienda emplear el menor número de instancias del explorador web (Internet Explorer, Mozilla, Opera, Chrome etc.) en forma simultánea y no abrir varias ventanas a la vez ya que cada una de ellas genera una petición al canal de Internet.
+- Si no está navegando por la web, cierre todas las ventanas abiertas de su explorador.
+
+# Restricciones al uso de Internet
+
+- Está totalmente prohibido y bloqueado por el sistema el ingreso a páginas de ocio, descarga de programas que permitan realizar conexiones automáticas o bajar música o video, en especial servicios y programas como KaZaA, eMule, Morpheus, GNUtella, Ares, Itunes, Spotify o similares. También está prohibida la reproducción de este tipo de material ya sea por vía web o medios magnéticos, e igualmente, participar en juegos de entretenimiento en línea (incluidos los de Facebook, Twitter, etc.).
+- El usuario debe evitar utilizar los servicios de radio y televisión por demanda (Real Player, itunes, emisoras radiales, etc.), pues requieren de gran capacidad del canal y pueden ocasionar retardos en las peticiones a los demás usuarios. Estas categorías se encuentran bloqueadas en algunos niveles jerárquicos.

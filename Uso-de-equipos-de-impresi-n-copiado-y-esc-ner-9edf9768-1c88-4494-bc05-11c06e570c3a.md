@@ -1,0 +1,7 @@
+# Uso de equipos de impresión, copiado y escáner
+
+- El cuidado y buen uso de los equipos de impresión, copiado y escáner, es responsabilidad de todos los colaboradores de la firma.
+- Los equipos de impresión, copiado y escáner son de uso exclusivo para los documentos de tipo laboral, relacionados directamente con la firma.
+- El área de Tecnología es la única capacitada y autorizada para realizar manipulaciones de configuración y asistencia técnica frente a problemas de atascos e instalación de suministros como tóneres de tinta, entre otros. Está prohibida la intervención o manipulación de equipos para estos efectos por parte de un usuario o empleado que no haga parte de esta área.
+- Es responsabilidad de todos los usuarios o colaboradores de la firma fomentar el uso razonable y económico del papel, no solo pensando en la reducción de gastos, sino en el cuidado del medio ambiente. Lo mismo aplica para los servicios de impresión en dúplex, varias páginas por hoja, papel reciclado, etc., y para el fotocopiado.
+- Para trabajos de impresión y fotocopiado es indispensable ingresar el código asignado que es único e intransferible. Quien desee obtener más detalles sobre el manejo del equipo puede remitirse al área de Tecnología.
